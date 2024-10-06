@@ -1,7 +1,13 @@
 
-# List of parts I use to build trackers, etc.
+# 🎈🔧 List of parts I use to build trackers, etc. 
 
-### Soldering
+### Software 💻
+- [PCB Design](https://easyeda.com/editor)
+- [PCB Fabrication](https://jlcpcb.com/)
+- [PCB Electronic Parts](https://www.lcsc.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+### Soldering 🔧
 
 - [Hotair QUICK 857DW](https://s.click.aliexpress.com/e/_DFfeJHZ)
 - [Soldering station T12X Plus](https://s.click.aliexpress.com/e/_DDM0Cu7)
@@ -13,28 +19,28 @@
 - [ESD Anti-Static Stainless Steel Tweezers](https://s.click.aliexpress.com/e/_Ddgv4zl)
 - [MUSTOOL G1200 Digital Microscope](https://s.click.aliexpress.com/e/_DFTwTj5)
 
-### Power
+### Power 🔆
 
 - [Antek DP100 Portable Power Supply](https://s.click.aliexpress.com/e/_DBsVJT9)
 
-### Preparing balloons
+### Preparing balloons 📐
 
 - [Mini 50g/200g Weight (I have both)](https://s.click.aliexpress.com/e/_DDjQBMJ)
 - [Sealer](https://s.click.aliexpress.com/e/_DDRenqF)
 - [Impulse Sealer Heat Wire](https://s.click.aliexpress.com/e/_DDRELPl)
 - [Jumper Wire 24AWG 5cm](https://s.click.aliexpress.com/e/_DexigPD)
 
-### Tracker components
+### Tracker components 🔨
 
 - [SUNYIMA 0.5V 0.3A Solar Panels](https://s.click.aliexpress.com/e/_DEfzQ31)
 
-### RX
+### RX 📡
 - [RTL SDR V4](https://s.click.aliexpress.com/e/_DlMiJKb)
 
-### Extra tools
+### Extra tools ✂️
 - [DIY Electronic Diagonal Pliers](https://s.click.aliexpress.com/e/_DCIUBST)
 
-### Balloons
+### Balloons 🎈
 - [4D Silver 32" balloons](https://s.click.aliexpress.com/e/_De3kgNV)
 
 
