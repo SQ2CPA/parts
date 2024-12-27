@@ -29,19 +29,24 @@
 - [Sealer](https://s.click.aliexpress.com/e/_DDRenqF)
 - [Impulse Sealer Heat Wire](https://s.click.aliexpress.com/e/_DDRELPl)
 - [Jumper Wire 24AWG 5cm](https://s.click.aliexpress.com/e/_DexigPD)
+- [Mini 12V Pump](https://s.click.aliexpress.com/e/_onq3yBp)
 
 ### Tracker components 🔨
 
 - [SUNYIMA 0.5V 0.3A Solar Panels](https://s.click.aliexpress.com/e/_DEfzQ31)
+- [Enameled copper wire 0.3mm as GPS antenna](https://s.click.aliexpress.com/e/_oEBoYsL)
 
 ### RX 📡
 - [RTL SDR V4](https://s.click.aliexpress.com/e/_DlMiJKb)
+- [ATS-20+ for HF WSPR](https://s.click.aliexpress.com/e/_oFxOcoF)
 
 ### Extra tools ✂️
 - [DIY Electronic Diagonal Pliers](https://s.click.aliexpress.com/e/_DCIUBST)
+- [30 pieces organiser for PCBs](https://s.click.aliexpress.com/e/_oBqG11t)
+- [36 pieces organiser for electronics parts](https://s.click.aliexpress.com/e/_oE22EBh)
 
 ### Balloons 🎈
 - [4D Silver 32" balloons](https://s.click.aliexpress.com/e/_De3kgNV)
-
+- [36" latex balloons](https://aliexpress.com/item/1005004433284660.html)
 
 ## 73, Damian SQ2CPA, Poland
